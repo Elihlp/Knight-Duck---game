@@ -1,52 +1,50 @@
-# Knight-Duck game
+# 🦆 Knight Duck (Cavaleiro-Pato)
 
-Meu jogo Knight Duck
+Um jogo **retrô, arcade e de ação**, onde você controla um bravo cavaleiro-pato em batalhas contra inimigos bizarros!  
+📌 Lançamento previsto: **Setembro ~ Outubro 2025**  
+📌 Plataforma de lançamento: [Itch.io](https://elihlp.itch.io/)
 
-# Player
+---
 
-Movimentação : AD
+## 🎮 Controles do Jogador
+- **Mover:** `A` e `D`
+- **Pular:** `W` ou `ESPAÇO`
+- **Usar Poção:** `E`
 
-Pular : W e SPACE
+---
 
-Usar Poção : E
+## 👾 Inimigos
+- **Passáro** → voa para a esquerda; se colidir com o player, cai.  
+- **Canhão** → dispara projéteis a cada 2–3 segundos.  
+- **Caveira** → ao detectar o player, espera 2s e explode.  
 
+---
 
+## 🖥️ HUD
+- **Vidas**  
+- **Poções**  
 
+---
 
-# Inimigos
+## 👥 Público-Alvo
+- Quem gosta de **plataformas retrô**, estilo **arcade/ação**.  
 
-Passáro : irá voar para a Esquerda e se bater no PLAYER ele cai
+---
 
-Canhão : quando se passar 2 ou 3 segundos ele irá atirar
+## 🚀 Roadmap de Desenvolvimento
+- [x] Definição de mecânicas básicas  
+- [ ] Protótipo jogável  
+- [ ] Implementar Passáro inimigo  
+- [ ] Implementar Canhão inimigo  
+- [ ] Implementar Caveira inimiga  
+- [ ] HUD funcional (vidas e poções)  
+- [ ] Publicar demo no Itch.io  
+- [ ] Lançamento final  
 
-Caveira :  quando o PLAYER chegar perto ele esperará 2 segundos e depois explodirá
+---
 
+## 📢 Acompanhe
+- Itch.io: [https://elihlp.itch.io/](https://elihlp.itch.io/)  
+- Devlogs (em breve!)  
 
-
-
-# HUD
-
-Vidas/Poções
-
-
-
-
-# Publico
-
-Publico Alvo : (Plataforma, retrô, Arcade, Ação)
-
-Onde o jogo irá lançar : itch.io https://elihlp.itch.io/
-
-Quando irá lançar : entre Setembro e Outubro
-
-
-
-# Engine
-
-GameMaker
-
-
-
-# Códigos
-
-Códigos do jogo em breve ;)
+---
