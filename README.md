@@ -37,7 +37,9 @@ Um jogo **retrô, arcade e de ação**, onde você controla um bravo cavaleiro-p
 - [x] Implementar Passáro inimigo  
 - [x] Implementar Canhão inimigo  
 - [ ] Implementar Caveira inimiga  
-- [x] HUD funcional (vidas e poções)  
+- [x] HUD funcional (vidas e poções)
+- [ ] Sistema de Level
+- [ ] Sistema de Aprimoramento
 - [ ] Publicar demo no Itch.io  
 - [ ] Lançamento final  
 
