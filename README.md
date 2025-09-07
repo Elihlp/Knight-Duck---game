@@ -33,7 +33,7 @@ Um jogo **retrô, arcade e de ação**, onde você controla um bravo cavaleiro-p
 
 ## 🚀 Roadmap de Desenvolvimento
 - [x] Definição de mecânicas básicas  
-- [x] Protótipo jogável  
+- [ ] Protótipo jogável  
 - [x] Implementar Passáro inimigo  
 - [x] Implementar Canhão inimigo  
 - [ ] Implementar Caveira inimiga  
